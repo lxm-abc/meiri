@@ -1,0 +1,14 @@
+{
+  "name": "meiri-workbench",
+  "version": "1.0.0",
+  "description": "每日 - 淡绿色 PWA 个人工作台",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "fast-xml-parser": "^4.5.7"
+  }
+}
